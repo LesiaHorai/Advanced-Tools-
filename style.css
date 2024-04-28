@@ -27,6 +27,7 @@ h2 {
 h3 {
   font-size: 24px;
   opacity: 0.7;
+  padding: 5px 25px 25px;
 }
 
 p {
@@ -96,6 +97,12 @@ p {
 .about-me {
   max-width: 50%;
   height: auto;
+}
+.about {
+  padding: 20px 25px 25px;
+}
+.contact-me {
+  padding: 20px 15px 25px;
 }
 @media only screen and (max-width: 600px) {
   .row {
