@@ -112,8 +112,9 @@ p {
     padding: 25px 5px 25px;
   }
   #contact {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 26px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
     color: #ff0095;
     text-align: center;
   }
